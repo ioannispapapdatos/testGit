@@ -1,1 +1,8 @@
-console.log('Hello thehre');
+
+const randNumber = Math.random() * 20
+
+console.log(randNumber);
+
+
+
+
