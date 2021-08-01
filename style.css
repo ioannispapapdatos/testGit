@@ -1,0 +1,23 @@
+body{
+
+}
+
+#animation{
+   color: rgb(138, 17, 23);
+   opacity: 1;
+   /* animation: move 2s   infinite ease-in-out alternate ; */
+
+}
+
+@keyframes move{
+    0%{ animation: none;
+        
+    }
+    100%{
+        opacity: 1;
+        transform: translate(20px,30px);
+    }
+  
+   
+
+}
